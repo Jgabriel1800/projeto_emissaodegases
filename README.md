@@ -1,2 +1,2 @@
 # projeto_emissaodegases
-Como cientistas de dados, o nosso trabalho será criar tabelas e visualizações para responder às perguntas feitas.
+Nesse projeto faço parte de um órgão de fiscalização ambiental e quero analisar os dados de emissões de gases do efeito estufa no Brasil. A equipe de supervisão do órgão solicitou algumas informações. Como cientistas de dados, o nosso trabalho será criar tabelas e visualizações para responder às perguntas feitas pelos nosso colegas de trabalho, tendo a melhor análise para adquirirmos todas informações necessárias.
